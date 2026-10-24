@@ -17,6 +17,7 @@ them in one place. Missing something? [Contribute](#contributing).
 - [Tools](#tools)
 - [Themes](#themes)
 - [Media](#media)
+- [Websites](#websites)
 - [Contributing](#contributing)
 
 ## Official
@@ -76,6 +77,10 @@ them in one place. Missing something? [Contribute](#contributing).
 ## Media
 
 - [dev-null-video-remotion](https://github.com/HelgeSverre/dev-null-video-remotion) - Launch film for dev-null.sh, drawn as a `git log` with Remotion.
+
+## Websites
+
+- [dev-null-pulls](https://dev-null-pulls.vercel.app/about) - A grown man vs. a random number generator, rolling for an open pull request on dev-null.sh ([announcement](https://dev-null.sh/@aaqidmasoodi/commits/01a169a8-d508-708c-abf3-1b81e6c35920)).
 
 ## Contributing
 
