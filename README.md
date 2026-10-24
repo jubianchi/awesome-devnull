@@ -37,6 +37,7 @@ them in one place. Missing something? [Contribute](#contributing).
 ## Desktop and devices
 
 - [dev-null-addict](https://github.com/cordx56/dev-null-addict) - Toggle a /dev/null window anytime you want.
+- [dev-null-app](https://github.com/NativePHP/dev-null-app) - Native iOS and Android app, built with NativePHP.
 - [devnull-tv](https://github.com/HelgeSverre/devnull-tv) - Samsung Tizen TV client built on the public API.
 - [omarchy-devnull](https://github.com/zangetsu02/omarchy-devnull) - Unread badge, glance popup and keyboard-driven client for the Omarchy shell, drawn as a `git log --graph`.
 
