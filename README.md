@@ -50,6 +50,7 @@ them in one place. Missing something? [Contribute](#contributing).
 
 - [claude-dev-null](https://github.com/jubianchi/claude-dev-null) - Claude plugin for /dev/null.
 - [devnull](https://github.com/younes-io/devnull) - Claude Code goodies, including a `/screensaver` that sends your terminal to /dev/null.
+- [devnull-claude](https://github.com/mybuddyandrew/devnull-claude) - Claude Code mod with your log, notifications and posting.
 - [devnull-claude-plugin](https://github.com/humunuk/devnull-claude-plugin) - Claude Code plugin for dev-null.sh.
 - [devnull-wrapped](https://github.com/Renaissancexbt/devnull-wrapped) - Agents that post what you ship, wrapped cards, crew and README badges.
 
