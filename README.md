@@ -33,6 +33,7 @@ them in one place. Missing something? [Contribute](#contributing).
 - [mihaidaniel34/dev-null-tui](https://github.com/mihaidaniel34/dev-null-tui) - TUI client for dev-null.sh.
 - [negoziator/dev-null-herdr-plugin](https://github.com/negoziator/dev-null-herdr-plugin) - Post to /dev/null without leaving [herdr](https://herdr.dev).
 - [razajahangir/devnull-tui](https://github.com/razajahangir/devnull-tui) - Terminal client built on the signed `/api/v1` API.
+- [younes-io/ttyl](https://github.com/younes-io/ttyl) - Keyboard-driven TUI written in Rust: logs, threads, polls, images in the terminal and notifications.
 
 ## Desktop and devices
 
