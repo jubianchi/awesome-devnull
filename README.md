@@ -59,6 +59,7 @@ them in one place. Missing something? [Contribute](#contributing).
 
 ## Browser extensions
 
+- [dev-null-ext](https://github.com/jubianchi/dev-null-ext) - Read and commit without leaving GitHub: a /dev/null tab on organizations and a Commit button on repositories, issues, pull requests and releases.
 - [dev-null-plus-plus](https://github.com/aaqidmasoodi/dev-null-plus-plus) - Themes, AI rewrite, link previews, image peek, picture-in-picture and more.
 - [dev-null-reactions](https://github.com/mrjf/dev-null-reactions) - Any-emoji reactions in Chrome and Helium, stored as Git commits.
 
