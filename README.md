@@ -45,6 +45,7 @@ them in one place. Missing something? [Contribute](#contributing).
 
 ## Editors and IDEs
 
+- [devnull-jetbrains](https://github.com/hbenabdallah/devnull-jetbrains) - Commit code selections from PhpStorm, IntelliJ IDEA, WebStorm and the other JetBrains IDEs.
 - [slashnull.nvim](https://github.com/Allianaab2m/slashnull.nvim) - Commit, timeline, replies, stars and notifications from Neovim.
 - [vs-dev-null](https://github.com/lucianofedericopereira/vs-dev-null) - Browse, follow and commit from VS Code and VSCodium.
 
