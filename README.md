@@ -18,6 +18,7 @@ them in one place. Missing something? [Contribute](#contributing).
 - [Themes](#themes)
 - [Media](#media)
 - [Websites](#websites)
+- [Nullers](#nullers)
 - [Contributing](#contributing)
 
 ## Official
@@ -88,6 +89,39 @@ them in one place. Missing something? [Contribute](#contributing).
 
 - [dev-null-pulls](https://dev-null-pulls.vercel.app/about) - A grown man vs. a random number generator, rolling for an open pull request on dev-null.sh ([announcement](https://dev-null.sh/@aaqidmasoodi/commits/01a169a8-d508-708c-abf3-1b81e6c35920)).
 
+## Nullers
+
+The people behind the projects listed here. Each avatar links to their /dev/null profile.
+
+<a href="https://github.com/aaqidmasoodi" title="@aaqidmasoodi"><img src="https://github.com/aaqidmasoodi.png?size=96" width="48" height="48" alt="@aaqidmasoodi"></a>
+<a href="https://dev-null.sh/@Allianaab2m" title="@Allianaab2m"><img src="https://github.com/Allianaab2m.png?size=96" width="48" height="48" alt="@Allianaab2m"></a>
+<a href="https://dev-null.sh/@AngelMunoz" title="@AngelMunoz"><img src="https://github.com/AngelMunoz.png?size=96" width="48" height="48" alt="@AngelMunoz"></a>
+<a href="https://dev-null.sh/@arhen" title="@arhen"><img src="https://github.com/arhen.png?size=96" width="48" height="48" alt="@arhen"></a>
+<a href="https://dev-null.sh/@bangnokia" title="@bangnokia"><img src="https://github.com/bangnokia.png?size=96" width="48" height="48" alt="@bangnokia"></a>
+<a href="https://dev-null.sh/@cordx56" title="@cordx56"><img src="https://github.com/cordx56.png?size=96" width="48" height="48" alt="@cordx56"></a>
+<a href="https://dev-null.sh/@eggplants" title="@eggplants"><img src="https://github.com/eggplants.png?size=96" width="48" height="48" alt="@eggplants"></a>
+<a href="https://dev-null.sh/@fernandofreamunde" title="@fernandofreamunde"><img src="https://github.com/fernandofreamunde.png?size=96" width="48" height="48" alt="@fernandofreamunde"></a>
+<a href="https://dev-null.sh/@GromNaN" title="@GromNaN"><img src="https://github.com/GromNaN.png?size=96" width="48" height="48" alt="@GromNaN"></a>
+<a href="https://dev-null.sh/@hbenabdallah" title="@hbenabdallah"><img src="https://github.com/hbenabdallah.png?size=96" width="48" height="48" alt="@hbenabdallah"></a>
+<a href="https://dev-null.sh/@HelgeSverre" title="@HelgeSverre"><img src="https://github.com/HelgeSverre.png?size=96" width="48" height="48" alt="@HelgeSverre"></a>
+<a href="https://dev-null.sh/@humunuk" title="@humunuk"><img src="https://github.com/humunuk.png?size=96" width="48" height="48" alt="@humunuk"></a>
+<a href="https://dev-null.sh/@joseederangojr" title="@joseederangojr"><img src="https://github.com/joseederangojr.png?size=96" width="48" height="48" alt="@joseederangojr"></a>
+<a href="https://dev-null.sh/@jubianchi" title="@jubianchi"><img src="https://github.com/jubianchi.png?size=96" width="48" height="48" alt="@jubianchi"></a>
+<a href="https://dev-null.sh/@lucianofedericopereira" title="@lucianofedericopereira"><img src="https://github.com/lucianofedericopereira.png?size=96" width="48" height="48" alt="@lucianofedericopereira"></a>
+<a href="https://dev-null.sh/@mihaidaniel34" title="@mihaidaniel34"><img src="https://github.com/mihaidaniel34.png?size=96" width="48" height="48" alt="@mihaidaniel34"></a>
+<a href="https://dev-null.sh/@mrjf" title="@mrjf"><img src="https://github.com/mrjf.png?size=96" width="48" height="48" alt="@mrjf"></a>
+<a href="https://dev-null.sh/@mybuddyandrew" title="@mybuddyandrew"><img src="https://github.com/mybuddyandrew.png?size=96" width="48" height="48" alt="@mybuddyandrew"></a>
+<a href="https://dev-null.sh/@negoziator" title="@negoziator"><img src="https://github.com/negoziator.png?size=96" width="48" height="48" alt="@negoziator"></a>
+<a href="https://dev-null.sh/@razajahangir" title="@razajahangir"><img src="https://github.com/razajahangir.png?size=96" width="48" height="48" alt="@razajahangir"></a>
+<a href="https://dev-null.sh/@Renaissancexbt" title="@Renaissancexbt"><img src="https://github.com/Renaissancexbt.png?size=96" width="48" height="48" alt="@Renaissancexbt"></a>
+<a href="https://dev-null.sh/@ryohidaka" title="@ryohidaka"><img src="https://github.com/ryohidaka.png?size=96" width="48" height="48" alt="@ryohidaka"></a>
+<a href="https://dev-null.sh/@Seldaek" title="@Seldaek"><img src="https://github.com/Seldaek.png?size=96" width="48" height="48" alt="@Seldaek"></a>
+<a href="https://dev-null.sh/@siddarthkay" title="@siddarthkay"><img src="https://github.com/siddarthkay.png?size=96" width="48" height="48" alt="@siddarthkay"></a>
+<a href="https://dev-null.sh/@simonhamp" title="@simonhamp"><img src="https://github.com/simonhamp.png?size=96" width="48" height="48" alt="@simonhamp"></a>
+<a href="https://dev-null.sh/@simonhampel" title="@simonhampel"><img src="https://github.com/simonhampel.png?size=96" width="48" height="48" alt="@simonhampel"></a>
+<a href="https://dev-null.sh/@younes-io" title="@younes-io"><img src="https://github.com/younes-io.png?size=96" width="48" height="48" alt="@younes-io"></a>
+<a href="https://dev-null.sh/@zangetsu02" title="@zangetsu02"><img src="https://github.com/zangetsu02.png?size=96" width="48" height="48" alt="@zangetsu02"></a>
+
 ## Contributing
 
 Contributions are welcome! To add a project, open a pull request that:
@@ -95,7 +129,8 @@ Contributions are welcome! To add a project, open a pull request that:
 - adds one project per pull request, in the most fitting section;
 - keeps entries in alphabetical order within their section;
 - follows the format `- [name](link) - Short description.`, with the description ending with a period;
-- links to a project that is publicly available and actually related to [/dev/null](https://dev-null.sh).
+- links to a project that is publicly available and actually related to [/dev/null](https://dev-null.sh);
+- adds the author's avatar to [Nullers](#nullers), in alphabetical order, if it is not there yet.
 
 If no section fits, feel free to propose a new one.
 
