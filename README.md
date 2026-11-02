@@ -41,6 +41,7 @@ them in one place. Missing something? [Contribute](#contributing).
 - [dev-null-addict](https://github.com/cordx56/dev-null-addict) - Toggle a /dev/null window anytime you want.
 - [dev-null-app](https://github.com/NativePHP/dev-null-app) - Native iOS and Android app, built with NativePHP.
 - [devnull-tv](https://github.com/HelgeSverre/devnull-tv) - Samsung Tizen TV client built on the public API.
+- [DevNull.Client](https://github.com/AngelMunoz/DevNull.Client) - Unofficial lightweight desktop client for dev-null.sh for Linux and Windows.
 - [null-pointer](https://github.com/sidtech-solutions/null-pointer) - Native iOS and Android client, built with Expo and React Native.
 - [omarchy-devnull](https://github.com/zangetsu02/omarchy-devnull) - Unread badge, glance popup and keyboard-driven client for the Omarchy shell, drawn as a `git log --graph`.
 
@@ -68,7 +69,6 @@ them in one place. Missing something? [Contribute](#contributing).
 
 - [dev-null-api](https://github.com/ryohidaka/dev-null-api) - TypeScript client for the public, read-only API.
 - [devnull-notifier](https://github.com/GromNaN/devnull-notifier) - Symfony Notifier bridge.
-- [DevNull.Client](https://github.com/AngelMunoz/DevNull.Client) - .NET client and library.
 - [devnull-stream](https://github.com/jubianchi/devnull-stream) - `devnull://` PHP stream wrapper: read, commit, reply, star and give pastéis with `fopen()`, `fwrite()` and `touch()`.
 
 ## Tools
